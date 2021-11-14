@@ -14,7 +14,7 @@ import Fylo from '../assets/images/works/Fylo.png';
 
 // Projects
 const projects = [
-  { title: 'TheGOAT7', category: 'React', screenshot: TheGOAT7, liveDemo: 'https://thegoat7.netlify.app/', sourceCode: 'https://github.com/the-goat7/potfolio' },
+  { title: 'TheGOAT7', category: 'React', screenshot: TheGOAT7, liveDemo: 'https://thegoat7.netlify.app/', sourceCode: 'https://github.com/the-goat7/TheGOAT7-portfolio' },
   { title: 'Galleria', category: 'React', screenshot: Galleria, liveDemo: 'https://galleria-arts.netlify.app/', sourceCode: 'https://github.com/the-goat7/galleria' },
   { title: 'Mate', category: 'Bootstrap', screenshot: Mate, liveDemo: 'https://mate-template.netlify.app/', sourceCode: 'https://github.com/the-goat7/mate-landing-page' },
   { title: 'SmartTodo', category: 'JavaScript', screenshot: SmartTodo, liveDemo: 'https://smart-todo.netlify.app/', sourceCode: 'https://github.com/the-goat7/smart-todo' },
