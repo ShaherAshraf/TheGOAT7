@@ -7,6 +7,7 @@ import JavaScript from '../assets/images/skills/JavaScript.svg';
 import ES6 from '../assets/images/skills/ES6.svg';
 import Sass from '../assets/images/skills/Sass.svg';
 import Bootstrap from '../assets/images/skills/Bootstrap.svg';
+import TailwindCss from '../assets/images/skills/TailwindCss.svg';
 import JQuery from '../assets/images/skills/JQuery.svg';
 import JSON from '../assets/images/skills/JSON.svg';
 import React from '../assets/images/skills/React.svg';
@@ -30,6 +31,7 @@ const skills = [
   { name: 'ES6', thumbnail: ES6 },
   { name: 'Sass', thumbnail: Sass },
   { name: 'Bootstrap', thumbnail: Bootstrap },
+  { name: 'Tailwind CSS', thumbnail: TailwindCss },
   { name: 'JQuery', thumbnail: JQuery },
   { name: 'JSON', thumbnail: JSON },
   { name: 'React', thumbnail: React },
