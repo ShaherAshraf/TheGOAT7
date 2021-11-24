@@ -5,6 +5,7 @@ import { useState } from 'react';
 
 // ScreenShots
 import browserTab from '../assets/images/works/browserTab.svg';
+import TheGOAT7Resume from '../assets/images/works/TheGOAT7Resume.png';
 import TheGOAT7 from '../assets/images/works/TheGOAT7.png';
 import Galleria from '../assets/images/works/Galleria.png';
 import Mate from '../assets/images/works/Mate.png';
@@ -14,6 +15,7 @@ import Fylo from '../assets/images/works/Fylo.png';
 
 // Projects
 const projects = [
+  { title: 'TheGOAT7 RESUME', category: 'HTML/CSS', screenshot: TheGOAT7Resume, liveDemo: 'https://thegoat7-resume.netlify.app/', sourceCode: 'https://github.com/the-goat7/TheGOAT7-RESUME' },
   { title: 'TheGOAT7', category: 'React', screenshot: TheGOAT7, liveDemo: 'https://thegoat7.netlify.app/', sourceCode: 'https://github.com/the-goat7/TheGOAT7-portfolio' },
   { title: 'Galleria', category: 'React', screenshot: Galleria, liveDemo: 'https://galleria-arts.netlify.app/', sourceCode: 'https://github.com/the-goat7/galleria' },
   { title: 'Mate', category: 'Bootstrap', screenshot: Mate, liveDemo: 'https://mate-template.netlify.app/', sourceCode: 'https://github.com/the-goat7/mate-landing-page' },

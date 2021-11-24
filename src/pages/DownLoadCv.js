@@ -43,8 +43,8 @@ const DownLoadCv = () => {
     <div className={classes.DownLoadCv}>
       <Container className='downloadCv' maxWidth='md'>
         <motion.div animate={{ rotateY: [0, 360, 0] }} transition={{ repeat: Infinity, duration: 10, ease: 'easeInOut' }} whileHover={{ rotateY: 0, transition: { duration: 1 } }}>
-          <a target='_blank' href='https://drive.google.com/file/d/1zwEez4bvcJsN0p7Me-WgLz9GixahX4o9/view?usp=sharing'>
-            <Card className={classes.card} variant="outlined">
+          <a target='_blank' href='https://thegoat7-resume.netlify.app/'>
+            <Card className={classes.card} variant='outlined'>
               <Typography variant='h2' className={classes.title}>
                 DownLoad CV
               </Typography>
